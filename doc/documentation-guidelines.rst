@@ -1,5 +1,5 @@
 ========================
-Documentation guidelines
+Documentation guidelines - edited from web interface
 ========================
 
 .. _docs.ckan.org: http://docs.ckan.org
